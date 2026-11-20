@@ -1,8 +1,8 @@
 # The World in One Day — Friday 20 November 2026: 52 stories, one front page — Akvan landfall, Trump defers Iran, missile over Riyadh, The Hague rules on Myanmar
 
-![Competition](https://make.fun/badge/news-image-20261120.svg)
-![Rank](https://make.fun/badge/news-image-20261120/maezageryan-del/news-image-20nov/rank.svg)
-![Reward](https://make.fun/badge/news-image-20261120/maezageryan-del/news-image-20nov/reward.svg)
+[![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![rank](https://make.fun/badge/news-image-20261120/maezageryan-del/news-image-20nov/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/maezageryan-del/news-image-20nov/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 
 A 1024×1024 broadsheet front page summing up Friday 20 November 2026 in a
 single image — 52 verified stories, drawn entirely in code.
